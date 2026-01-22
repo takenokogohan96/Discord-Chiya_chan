@@ -1,4 +1,4 @@
-# Discord_Chiya-chan
+# Discord-Chiya_chan
 
 これはVOICEROIDを用いたDiscord用の読み上げBotです<br>
 ※本スクリプトは個人利用レベルのものであり、第三者による利用を深く想定していません。予めご了承ください
