@@ -1,3 +1,4 @@
+# ※このリポジトリはアーカイブされています
 # Discord-Chiya_chan
 
 これはVOICEROIDを用いたDiscord用の読み上げBotです<br>
